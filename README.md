@@ -6,7 +6,7 @@
     <th>tx</th>
     <th>ty</th>
     <th>tz</th>
-    <th>Theta</th>
+    <th>&#952;</th>
    
   </tr>
 </table>
