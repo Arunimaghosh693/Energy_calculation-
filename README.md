@@ -1,4 +1,12 @@
-# Energy_calculatio
+# Energy_calculation
+<h2>StackGen example problems</h2>
+
+There are 14 sub-directories present here. Each sub-directories contains a sample problem you can run with StackGen. 
+Each problem has an user input script (input.user), DFTB+ input file (dftb_in.hsd), PSO trajectories files (swarm_traj.out, traj.out)
+as output, optimized dimer strcuture (generated_supramo_2.xyz) and three image files of monomer configuration, side view, and top view of 
+energy-optimized dimer structure respectively.
+
+The following molecules are considerd as sample problem. The input and output files are present in their corresponding sub-directory.
 <table>
  <tr>
     <th>Molecule</th>
