@@ -46,107 +46,115 @@ The energy-optimized dimer structure can be visualized using VMD.
     <th>&#952;</th>
     <tr>
     <td>BTA_68b</td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
-    <td></td>
+    <td>4</td>
+    <td>0.001</td>
+    <td>0.332	</td>
+    <td>3.478</td>
+    <td>-65.428</td>
+  </tr>
+   <tr>
+    <td>BTA_66d</td>
+    <td>4</td>
+    <td>0.552	</td>
+    <td>0.310</td>
+    <td>3.588</td>
+    <td>-57.817</td>
   </tr>
   <tr>
     <td>Triazine-trisamide-1 (TTA-1)</td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
-    <td></td>
+    <td>4</td>
+    <td>0.184</td>
+    <td>0.044</td>
+    <td>3.291/td>
+    <td>-31.013<</td>
   </tr>
   <tr>
-    <td>Triazine-trisamide-1 (TTA-2)</td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
-    <td></td>
+    <td>Triazine-trisamide-2 (TTA-2)</td>
+    <td>4</td>
+    <td>0.287</td>
+    <td>0.000 </td>
+    <td>3.218</td>
+    <td>-31.295</td>
   </tr>
    <tr>
     <td>PDI_20</td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
-    <td></td>
+    <td>4</td>
+    <td> 3.491	</td>
+    <td> 0.357</td>
+    <td>3.580</td>
+    <td>0.003</td>
   </tr>
   <tr>
     <td>PDI_92</td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
-    <td></td>
+    <td>4</td>
+    <td>1.968	</td>
+    <td> 0.580</td>
+    <td>3.343</td>
+    <td>-37.069</td>
   </tr>
    <tr>
     <td>PDI_branch</td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
-    <td></td>
+    <td>4</td>
+    <td> 1.505</td>
+    <td>0.909 </td>
+    <td>3.304</td>
+    <td>-32.655</td>
   </tr>
     <tr>
     <td>PDI_vshape</td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
-    <td></td>
+    <td>4</td>
+    <td>1.035	</td>
+    <td> 0.520</td>
+    <td>3.438</td>
+    <td>-39.749</td>
   </tr>
    <tr>
     <td>Hexabenzocoronene(HBC)</td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
-    <td></td>
+    <td>4</td>
+    <td>1.341	</td>
+    <td>0.545</td>
+    <td>3.305	</td>
+    <td>-59.200</td>
   </tr>
    <tr>
     <td>BTA</td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
-    <td></td>
+    <td>2</td>
+    <td>0.0 </td>
+    <td>0.0 </td>
+    <td>3.427</td>
+    <td>296.642</td>
   </tr>
    <tr>
     <td>Ph-PDI</td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
-    <td></td>
+    <td>2</td>
+    <td>0.0</td>
+    <td>0.0</td>
+    <td>3.388</td>
+    <td>349.073</td>
   </tr>
     <tr>
     <td>Alkyl-PDI </td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
-    <td></td>
+    <td>2</td>
+    <td>0.0</td>
+    <td>0.0 </td>
+    <td>3.487  </td>
+    <td>29.872</td>
   </tr>
   <tr>
     <td>PDI-1-C1</td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
-    <td></td>
+    <td>4</td>
+    <td>1.302 </td>
+    <td>0.218</td>
+    <td>3.314</td>
+    <td>-20.991</td>
   </tr>
   <tr>
     <td>PBI-1</td>
-    <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
-    <td></td>
+    <td>4</td>
+    <td>2.165</td>
+    <td>0.030</td>
+    <td>3.401</td>
+    <td>19.988</td>
   </tr>
 
    
