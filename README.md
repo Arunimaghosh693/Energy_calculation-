@@ -1,22 +1,14 @@
 # Energy_calculation
 <h2>StackGen example problems</h2>
+
 There are 14 sub-directories present here. Each sub-directory contains a sample problem you can run with StackGen. 
 Each problem has a user input script (input.user), DFTB+ input file (dftb_in.hsd), PSO trajectories files (swarm_traj.out, traj.out)
 as output, optimized dimer structure (generated_supramo_2.xyz) and three image files of monomer configuration, side view, and top view of 
 energy-optimized dimer structure, respectively.
 
-The following molecules are considered as sample problems. The input and output files are present in their corresponding sub-directories:
-
-
-
-There are 14 sub-directories present here. Each sub-directories contains a sample problem you can run with StackGen. 
-Each problem has an user input script (input.user), DFTB+ input file (dftb_in.hsd), PSO trajectories files (swarm_traj.out, traj.out)
-as output, optimized dimer strcuture (generated_supramo_2.xyz) and three image files of monomer configuration, side view, and top view of 
-energy-optimized dimer structure respectively.
-
-The following molecules are considerd as sample problem. The input and output files are present in their corresponding sub-directories:
+The following molecules are considered sample problems. The input and output files are present in their corresponding sub-directories:
 <ol>
-  <li>BTA_68b</li><
+  <li>BTA_68b</li>
   <li>BTA 66d </li>
   <li>Triazine-trisamide-1 (TTA-1) </li>
   <li>Triazine-trisamide-2 (TTA-2)</li>
@@ -32,13 +24,6 @@ The following molecules are considerd as sample problem. The input and output fi
   <li>PBI-1 </li>
    
 </ol>  
-
-
-
-
-
-
-
 
 Here's an example of how to run and visualize the energy-optimized structures of these sample problems:
 
